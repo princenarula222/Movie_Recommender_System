@@ -1,4 +1,4 @@
-# Movie_Recommender_System
+# Movie Recommender System
 This repository provides an implementation of a movie recommender system. 
 Working principle is based on Item-Item collaborative filtering, considering users and movies as two different sets of items working 
 together to learn the model parameters for each user and movie.
@@ -26,6 +26,6 @@ recommend0.csv - stores the ids of movies recommended to user 1 (predicted ratin
 
 I have placed my results in the 'Result'(Result/) folder for reference.
 
-#Tabular format
+# Tabular format
 Each row represents a movie.
 Each column represents a user.
