@@ -35,4 +35,5 @@ I have placed my results in the 'Result'(Result/) folder for reference.
 
 # Tabular format
 Each row represents a movie.
+
 Each column represents a user.
