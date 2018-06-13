@@ -36,3 +36,5 @@ I have placed my results in the 'Result'(Result/) folder for reference.
 # Tabular format
 Each row represents a movie.
 Each column represents a user.
+
+Value in the ith row and jth column is the rating given by user j to movie i.
