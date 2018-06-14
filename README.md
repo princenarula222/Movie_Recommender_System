@@ -13,7 +13,7 @@ Movies dataset provided by movielens.org has been utilized for training the mode
 
 
 # Training the model
-Run 'Recommender.py' to train the model.
+Run 'Recommender.py' to train and test the model.
 
 
 # Result
